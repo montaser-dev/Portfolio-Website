@@ -1,5 +1,5 @@
-# 🔥 Responsive Portfolio Website Montaser
-## 🔥 Responsive Portfolio Website
+# Responsive Portfolio Website Montaser
+## Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
